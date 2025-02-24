@@ -2,7 +2,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-image:url("restaurante.jpg");
     background-position: center;
-    color:#009999;
+    color:#1D3722;
     text-align: center;
 }
 
@@ -16,7 +16,7 @@ body{
     width:100px
 }
 .card{
-    background-color: bisque;
+    background-color: #ffffcc;
     border:3px ridge #009999;
     padding:10px;
     margin:15px;
@@ -30,6 +30,9 @@ nav ul li{
     padding:1rem;
 }
 
+h1{
+    color:#1D3722;
+}
 
 
 p{
@@ -46,7 +49,7 @@ nav a{
     text-decoration: none;
     font-size: 1.2rem;
     font-weight:bold;
-    color:#009999;
+    color:#1D3722;
 }
 
 .button{
